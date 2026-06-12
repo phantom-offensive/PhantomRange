@@ -64,7 +64,7 @@ make docker-stop    # Stop containers
 make reset-db       # Wipe database (re-seeds on restart)
 ```
 
-**Requirements:** Go 1.22+ or Docker
+**Requirements:** Go 1.25+ or Docker
 
 ---
 
